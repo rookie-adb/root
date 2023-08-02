@@ -17,10 +17,10 @@
       "disablePlugins": [],
       "outputPath": ""
     },
-    "condition": false
+    "condition": true
   },
   "compileType": "miniprogram",
-  "libVersion": "3.0.0",
+  "libVersion": "",
   "appid": "wx983234b68884d597",
   "projectname": "first",
   "condition": {},
