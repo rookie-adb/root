@@ -1,4 +1,5 @@
 import App from './App'
+<<<<<<< HEAD
 // #ifndef VUE3
 import Vue from 'vue'
 import './uni.promisify.adaptor'
@@ -25,6 +26,12 @@ uni.$showMsg = function(title = '数据请求失败', duration = 1500){
 		icon:'none'
 	})
 }
+=======
+
+// #ifndef VUE3
+import Vue from 'vue'
+import './uni.promisify.adaptor'
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 Vue.config.productionTip = false
 App.mpType = 'app'
 const app = new Vue({

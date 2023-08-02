@@ -1,6 +1,10 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/cart/cart"],{
 
+<<<<<<< HEAD
 /***/ 52:
+=======
+/***/ 56:
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 /*!**************************************************************************!*\
   !*** Z:/code/project/first/first/main.js?{"page":"pages%2Fcart%2Fcart"} ***!
   \**************************************************************************/
@@ -13,7 +17,11 @@
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
 __webpack_require__(/*! uni-pages */ 26);
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 25));
+<<<<<<< HEAD
 var _cart = _interopRequireDefault(__webpack_require__(/*! ./pages/cart/cart.vue */ 53));
+=======
+var _cart = _interopRequireDefault(__webpack_require__(/*! ./pages/cart/cart.vue */ 57));
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 // @ts-ignore
 wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;
 createPage(_cart.default);
@@ -21,11 +29,16 @@ createPage(_cart.default);
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ 53:
+=======
+/***/ 57:
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 /*!*******************************************************!*\
   !*** Z:/code/project/first/first/pages/cart/cart.vue ***!
   \*******************************************************/
 /*! no static exports found */
+<<<<<<< HEAD
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -155,4 +168,13 @@ exports.default = _default;
 /***/ })
 
 },[[52,"common/runtime","common/vendor"]]]);
+=======
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js):\nError: ENOENT: no such file or directory, open 'Z:\\code\\project\\first\\first\\pages\\cart\\cart.vue'");
+
+/***/ })
+
+},[[56,"common/runtime","common/vendor"]]]);
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 //# sourceMappingURL=../../../.sourcemap/mp-weixin/pages/cart/cart.js.map

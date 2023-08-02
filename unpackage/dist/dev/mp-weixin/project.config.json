@@ -20,7 +20,11 @@
     "condition": false
   },
   "compileType": "miniprogram",
+<<<<<<< HEAD
   "libVersion": "",
+=======
+  "libVersion": "3.0.0",
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
   "appid": "wx983234b68884d597",
   "projectname": "first",
   "condition": {},

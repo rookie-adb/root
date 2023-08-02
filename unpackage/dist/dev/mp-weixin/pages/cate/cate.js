@@ -1,6 +1,10 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/cate/cate"],{
 
+<<<<<<< HEAD
 /***/ 46:
+=======
+/***/ 50:
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 /*!**************************************************************************!*\
   !*** Z:/code/project/first/first/main.js?{"page":"pages%2Fcate%2Fcate"} ***!
   \**************************************************************************/
@@ -13,7 +17,11 @@
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
 __webpack_require__(/*! uni-pages */ 26);
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 25));
+<<<<<<< HEAD
 var _cate = _interopRequireDefault(__webpack_require__(/*! ./pages/cate/cate.vue */ 47));
+=======
+var _cate = _interopRequireDefault(__webpack_require__(/*! ./pages/cate/cate.vue */ 51));
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 // @ts-ignore
 wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;
 createPage(_cate.default);
@@ -21,11 +29,16 @@ createPage(_cate.default);
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ 47:
+=======
+/***/ 51:
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 /*!*******************************************************!*\
   !*** Z:/code/project/first/first/pages/cate/cate.vue ***!
   \*******************************************************/
 /*! no static exports found */
+<<<<<<< HEAD
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -155,4 +168,13 @@ exports.default = _default;
 /***/ })
 
 },[[46,"common/runtime","common/vendor"]]]);
+=======
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js):\nError: ENOENT: no such file or directory, open 'Z:\\code\\project\\first\\first\\pages\\cate\\cate.vue'");
+
+/***/ })
+
+},[[50,"common/runtime","common/vendor"]]]);
+>>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
 //# sourceMappingURL=../../../.sourcemap/mp-weixin/pages/cate/cate.js.map
