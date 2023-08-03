@@ -49,6 +49,13 @@
                 }
                 
                 }
+                ,{
+                    "path" : "search/search",
+                    "style" :                                                                                    
+                {
+                }
+                
+                }
             ]
 		}
 	],

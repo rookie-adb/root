@@ -1,5 +1,8 @@
 <template>
 	<view>
+		<view class="search-box">
+			<my-search @click="gotosearch"></my-search>
+		</view>
 <!-- 		//轮播图 -->
 		<swiper :indicator-dots="true" :autoplay="true" :interval="3000" :duration="1000" :circular="true">
 			<swiper-item v-for="(item,i) in swiperList" :key="i">
@@ -78,6 +81,11 @@
 						url:'/pages/cate/cate'
 					})
 				}
+			},
+			gotosearch(){
+				uni.navigateTo({
+					url:'/pkg/search/search'
+				})
 			}
 		}
 	}
@@ -115,5 +123,11 @@ swiper{
 .floor-img-box{
 	display: flex;
 	padding-left:10rpx ;
+}
+//吸顶
+.search-box{
+	position: sticky;
+	top: 0;
+	z-index: 999;
 }
 </style>
