@@ -1,6 +1,5 @@
 {
   "pages": [
-<<<<<<< HEAD
     "pages/home/home",
     "pages/cate/cate",
     "pages/cart/cart",
@@ -49,16 +48,6 @@
         "selectedIconPath": "static/tab_icons/my-active.png"
       }
     ]
-=======
-    "pages/index/index"
-  ],
-  "subPackages": [],
-  "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
-    "backgroundColor": "#F8F8F8"
->>>>>>> 237270f05ec856e4a43af002c95169fb2359ab8e
   },
   "usingComponents": {}
 }
