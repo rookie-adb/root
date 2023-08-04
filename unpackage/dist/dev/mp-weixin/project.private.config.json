@@ -12,8 +12,8 @@
         },
         {
           "name": "",
-          "pathName": "pkg/search/search",
-          "query": "",
+          "pathName": "pkg/goods_list/goods_list",
+          "query": "cid=5",
           "launchMode": "default",
           "scene": null
         }
